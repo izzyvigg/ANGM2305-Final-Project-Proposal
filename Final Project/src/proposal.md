@@ -10,15 +10,15 @@ eyedrop from, the number of color swatches, and allow users to make several colo
 
 ## Features
 - pasting and displaying multiple images
-	- Short explaination of how it will be executed.
+	- images will be pasted from clipboard and stored in a list so they can all be displayed onto the same workspace
 - color picker tool (aka eyedropper)
-	- Short explaination of how it will be executed.
+	- the program will track the user's cursor and on click, get the RGB value of the selected pixel
 - side-by-side palette comparison 
-	- Short explaination of how it will be executed.
+	- using rectangles to display the palettes on the side of the workspace window
 - custom color swatch amount
-    - Short explaination of how it will be executed.
+    - there will be a standard number, and users can click a "-" or "+" to add or delete a swatch space (with a set maximum)
 - exporting results as jpgs or pngs
-    - Short explaination of how it will be executed.
+    - the program will save the render palettes under a different window that gets saved out as jpgs or pngs when the user wants to export (?)
 
 ## Challenges
 - how to zoom in on a specific part of an image when a user's cursor hovers over it.
